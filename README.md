@@ -1,5 +1,21 @@
 # 💫 About Me:
-💻 Backend & DevOps Engineer | Automation Architect<br><br>I design and implement scalable backend systems, production-ready web platforms and complex Telegram infrastructures.<br><br>My expertise covers:<br>• Backend architecture and system design  <br>• Advanced Telegram Bot engineering (high-load, automation, restrictions bypass logic)  <br>• Linux server administration and infrastructure setup  <br>• DNS management, SSL certification, reverse proxy and deployment pipelines  <br>• REST API integrations and custom automation systems  <br><br>I work from infrastructure to application level — ensuring stability, performance and scalability.<br><br>If a system needs to run reliably under pressure — I build it.
+💻 Backend & DevOps Engineer | Automation Architect
+
+I build scalable backend systems, high-performance web platforms and advanced automation solutions.
+
+With strong expertise in backend architecture and infrastructure, I design and deploy production-ready environments — from application logic to server configuration.
+
+My expertise includes:
+• Backend architecture & system design  
+• Advanced Telegram bot & WebApp development  
+• API integrations and automation systems  
+• Linux server administration & infrastructure setup  
+• DNS configuration, SSL certification & reverse proxy management  
+• Deployment workflows and performance optimization  
+
+I focus on reliability, structure and real-world scalability.
+
+If a system needs to be stable, efficient and engineered properly — I build it.
 
 
 # 💻 Tech Stack:
